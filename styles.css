@@ -114,14 +114,6 @@ body {
     padding: 5px 5px;
 }
 
-.intro__subtitle2 {
-    font-weight: normal;
-    color: #333;
-    padding: 0 20px;
-    text-align: center;
-    padding-top: 10px;
-}
-
 /* GALLERY */
 
 .gallery__grid {
